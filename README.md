@@ -57,4 +57,5 @@ Remediation Recommendations
 Appendix with detailed incident logs
 
 🙏 Acknowledgment  
+
 Special thanks to Future Interns for providing the opportunity and resources that inspired this project.
