@@ -1,0 +1,6 @@
+"_time",host,source,sourcetype,"_raw"
+"2025-07-03T09:02:14.000+0530",LUCKY,"SOC_Task2_Sample_Logs.txt","alert_logs","2025-07-03 09:02:14 | user=david | ip=203.0.113.77 | action=login failed"
+"2025-07-03T07:02:14.000+0530",LUCKY,"SOC_Task2_Sample_Logs.txt","alert_logs","2025-07-03 07:02:14 | user=alice | ip=203.0.113.77 | action=login failed"
+"2025-07-03T04:47:14.000+0530",LUCKY,"SOC_Task2_Sample_Logs.txt","alert_logs","2025-07-03 04:47:14 | user=bob | ip=10.0.0.5 | action=login failed"
+"2025-07-03T04:23:14.000+0530",LUCKY,"SOC_Task2_Sample_Logs.txt","alert_logs","2025-07-03 04:23:14 | user=bob | ip=172.16.0.3 | action=login failed"
+"2025-07-03T04:23:14.000+0530",LUCKY,"SOC_Task2_Sample_Logs.txt","alert_logs","2025-07-03 04:23:14 | user=charlie | ip=198.51.100.42 | action=login failed"
